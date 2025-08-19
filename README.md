@@ -45,6 +45,10 @@ While Bitcoin has historically outperformed traditional assets, it has done so w
 
 ---
 
+## Tableau Public Dashboard
+
+https://public.tableau.com/views/capstone_project_visualizations_17549328326620/DashboardBTCvsTradFi?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ## References
 
 - [TIINGO API](https://www.tiingo.com/)
